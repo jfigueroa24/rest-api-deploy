@@ -20,6 +20,7 @@ app.use(
         'http://localhost:3000',
         'http://movies.com',
         'http://midu.dev',
+        'https://rest-api-deploy-ruut.vercel.app/',
       ]
 
       if (ACCEPTED_ORIGINS.includes(origin)) {
