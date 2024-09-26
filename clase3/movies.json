@@ -1,0 +1,152 @@
+[
+{
+    "id": "dcd9f0ad-a94c-4810-8acc-5f108d3b18c3",
+    "title": "The Shawshank Redemption",
+    "year": 1994,
+    "director": "Frank Darabont",
+    "duration": 142,
+    "poster": "https://i.ebayimg.com/images/g/4goAAOSwMyBe7hnQ/s-l1200.webp",
+    "genre": ["Drama"],
+    "rate": 9.3
+},
+{
+    "id": "b5d8e71f-0e44-4c7c-b2e2-77154b9fc01e",
+    "title": "Inception",
+    "year": 2010,
+    "director": "Christopher Nolan",
+    "duration": 148,
+    "poster": "https://m.media-amazon.com/images/I/81p+xe8cbnL._AC_SY679_.jpg",
+    "genre": ["Sci-Fi", "Thriller"],
+    "rate": 8.8
+},
+{
+    "id": "f3e1b671-8e45-4fd5-981e-d39c1f2c2c53",
+    "title": "The Godfather",
+    "year": 1972,
+    "director": "Francis Ford Coppola",
+    "duration": 175,
+    "poster": "https://upload.wikimedia.org/wikipedia/en/a/af/The_Godfather%2C_The_Game.jpg",
+    "genre": ["Crime", "Drama"],
+    "rate": 9.2
+},
+{
+    "id": "2b8b9f8e-87f6-4db0-9ae7-e4f8c4b3a6f2",
+    "title": "The Dark Knight",
+    "year": 2008,
+    "director": "Christopher Nolan",
+    "duration": 152,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTMxNTMwODM0NF5BMl5BanBnXkFtZTcwODAyMTk2Mw@@._V1_.jpg",
+    "genre": ["Action", "Crime", "Drama"],
+    "rate": 9.0
+},
+{
+    "id": "de12f5f9-9c8d-43d2-b2d9-041f2de7c348",
+    "title": "Pulp Fiction",
+    "year": 1994,
+    "director": "Quentin Tarantino",
+    "duration": 154,
+    "poster": "https://m.media-amazon.com/images/I/71c05lTE03L._AC_SY679_.jpg",
+    "genre": ["Crime", "Drama"],
+    "rate": 8.9
+},
+{
+    "id": "ff20c4c5-12bc-4c28-87d7-7be4a7e542d5",
+    "title": "Forrest Gump",
+    "year": 1994,
+    "director": "Robert Zemeckis",
+    "duration": 142,
+    "poster": "https://pics.filmaffinity.com/Forrest_Gump-212765827-large.jpg",
+    "genre": ["Drama", "Romance"],
+    "rate": 8.8
+},
+{
+    "id": "baae8c99-7b64-4602-a2a4-0d7ef98f204d",
+    "title": "The Matrix",
+    "year": 1999,
+    "director": "Lana Wachowski, Lilly Wachowski",
+    "duration": 136,
+    "poster": "https://m.media-amazon.com/images/I/51vpnbwFHrL._AC_.jpg",
+    "genre": ["Sci-Fi", "Action"],
+    "rate": 8.7
+},
+{
+    "id": "c89c7f13-69f2-4991-b878-93e7d8a95f43",
+    "title": "Jurassic Park",
+    "year": 1993,
+    "director": "Steven Spielberg",
+    "duration": 127,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjM2MDgxMDg0Nl5BMl5BanBnXkFtZTgwNTM2OTM5NDE@._V1_.jpg",
+    "genre": ["Adventure", "Sci-Fi"],
+    "rate": 8.1
+},
+{
+    "id": "d02e07f7-e5cc-4c14-bc23-5b19c26b38d2",
+    "title": "The Lion King",
+    "year": 1994,
+    "director": "Roger Allers, Rob Minkoff",
+    "duration": 88,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjIwMjE1Nzc4NV5BMl5BanBnXkFtZTgwNDg4OTA1NzM@._V1_FMjpg_UX1000_.jpg",
+    "genre": ["Animation", "Adventure", "Drama"],
+    "rate": 8.5
+},
+{
+    "id": "3b1e25a1-48ef-45b9-b2b4-4c8b91f1d9e7",
+    "title": "Titanic",
+    "year": 1997,
+    "director": "James Cameron",
+    "duration": 195,
+    "poster": "https://play-lh.googleusercontent.com/560-H8NVZRHk00g3RltRun4IGB-Ndl0I0iKy33D7EQ0cRRwH78-c46s90lZ1ho_F1so=w240-h480-rw",
+    "genre": ["Drama", "Romance"],
+    "rate": 7.8
+},
+{
+    "id": "d9349f9e-08d6-42b8-a5ad-34b00aebbc8a",
+    "title": "The Exorcist",
+    "year": 1973,
+    "director": "William Friedkin",
+    "duration": 122,
+    "poster": "https://m.media-amazon.com/images/M/MV5BZjg3YjE4ZjAtYTdmYS00ZTBkLWE1ZjgtNzAzODUwNzRiYjlmXkEyXkFqcGc@._V1_.jpg",
+    "genre": ["Horror"],
+    "rate": 8.0
+},
+{
+    "id": "f591c96e-4099-4a73-8377-0b75cc3ffbe6",
+    "title": "A Nightmare on Elm Street",
+    "year": 1984,
+    "director": "Wes Craven",
+    "duration": 91,
+    "poster": "https://m.media-amazon.com/images/M/MV5BODIxMTQ0NTIxM15BMl5BanBnXkFtZTcwMzY1NDAyMw@@._V1_.jpg",
+    "genre": ["Horror"],
+    "rate": 7.4
+},
+{
+    "id": "af3ef0f3-3d48-4be4-b83e-256d89a3f53b",
+    "title": "The Shining",
+    "year": 1980,
+    "director": "Stanley Kubrick",
+    "duration": 146,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNmM5ZThhY2ItOGRjOS00NzZiLWEwYTItNDgyMjFkOTgxMmRiXkEyXkFqcGc@._V1_.jpg",
+    "genre": ["Horror", "Drama"],
+    "rate": 8.4
+},
+{
+    "id": "af4c62b7-4784-49b8-b6e7-1c66c5c760a7",
+    "title": "Get Out",
+    "year": 2017,
+    "director": "Jordan Peele",
+    "duration": 104,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjUxMDQwNjcyNl5BMl5BanBnXkFtZTgwNzcwMzc0MTI@._V1_.jpg",
+    "genre": ["Horror", "Thriller"],
+    "rate": 7.7
+},
+{
+    "id": "ff837cf1-25dc-4f7d-baf0-1a49747854a9",
+    "title": "Hereditary",
+    "year": 2018,
+    "director": "Ari Aster",
+    "duration": 127,
+    "poster": "https://pics.filmaffinity.com/Hereditary-411242403-large.jpg",
+    "genre": ["Horror", "Drama", "Mystery"],
+    "rate": 7.3
+}
+]
