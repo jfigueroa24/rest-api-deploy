@@ -21,7 +21,6 @@
         fetch('http://localhost:3000/movies')
         .then(res => res.json())
         .then(movies =>{
-            console.log({movies});
             const html = movies.map(movie =>{
                 return `<article data-id="${movie.id}">
                     <h2>${movie.title}</h2>
